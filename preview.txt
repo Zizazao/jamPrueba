@@ -1,0 +1,38 @@
+
+RESUMEN
+https://itch.io/jam/2018-spring-ue4jam
+
+-Empieza el Jueves 10 a las 20:00
+-Entrega antes del Martes 15 a las 20:00
+
+3 Categorias
+-Fun
+-Visual Aesthetic
+-Use of theme
+
+Foro:
+https://forums.unrealengine.com/unreal-engine/events/1458043-2018-spring-ue4jam-may-10-15
+
+Reglas:
+-Cuidado con las templates
+-Cuidado con Default Materials
+
+Wiki Jam
+https://wiki.unrealengine.com/Top_Tips_for_Game_Jams
+
+Materiales
+-1Material muchas instancias
+-sencillo:https://www.youtube.com/watch?v=w7xd4kvck0I&feature=youtu.be
+-Post procesado guay
+https://80.lv/articles/clinton-crumpler-king-wash-laundromat-scene-production/
+COLOUR GRADING 
+https://jesshiderue4.wordpress.com/materials/colour-grading-using-a-colour-lookup-table/
+-Ambiente animado https://www.youtube.com/watch?v=6tRZio0i7jo
+-Cambiar textura de nubes
+-Foliage Brush
+
+TIPS
+https://www.youtube.com/playlist?list=PLSlkDq2rO1t7_IV8zwwfBml2DYnVfoSwY
+
+
+
