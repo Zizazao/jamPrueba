@@ -461,3 +461,91 @@ LogInit: Object subsystem initialized
 [2018.05.09-18.23.20:503][ 57]LogSavePackage: Save=20.00ms
 [2018.05.09-18.23.20:503][ 57]LogSavePackage: Moving '../../../../../Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Saved/BallMap_BuiltData153EAD314F35EA6D7CF6E98781A00603.tmp' to '../../../../../Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Content/Maps/BallMap_BuiltData.uasset'
 [2018.05.09-18.23.20:506][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Content/Maps/BallMap_BuiltData.uasset
+[2018.05.09-18.28.31:499][425]LogSlate: Window 'Save Content' being destroyed
+[2018.05.09-18.28.31:528][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_test" FILE="../../../../../Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Content/Blueprints/BP_test.uasset" SILENT=true
+[2018.05.09-18.28.31:544][425]LogSavePackage: Save=12.15ms
+[2018.05.09-18.28.31:544][425]LogSavePackage: Moving '../../../../../Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Saved/BP_testEEA1DD4943505CCE79E6909115F8988E.tmp' to '../../../../../Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Content/Blueprints/BP_test.uasset'
+[2018.05.09-18.28.31:553][425]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Content/Blueprints/BP_test.uasset
+[2018.05.09-18.28.47:828][804]LogSlate: Window 'BallsMovement - Unreal Editor' being destroyed
+[2018.05.09-18.28.47:829][804]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.09-18.28.48:027][805]Cmd: QUIT_EDITOR
+[2018.05.09-18.28.49:018][805]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.09-18.28.49:018][805]LogExit: Preparing to exit.
+[2018.05.09-18.28.49:622][805]LogDirectoryWatcher: A directory notification for 'C:/Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Content/' was aborted.
+[2018.05.09-18.28.49:638][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002827c781fa0, Size=104
+[2018.05.09-18.28.49:643][805]LogExit: Editor shut down
+[2018.05.09-18.28.49:647][805]LogExit: Transaction tracking system shut down
+[2018.05.09-18.28.49:647][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000282348f38d0, Size=80
+[2018.05.09-18.28.49:647][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002825ba6b290, Size=80
+[2018.05.09-18.28.49:647][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028266001d00, Size=8
+[2018.05.09-18.28.49:648][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000282660c7700, Size=352
+[2018.05.09-18.28.49:648][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028271a39440, Size=408
+[2018.05.09-18.28.49:758][805]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.09-18.28.49:758][805]LogDirectoryWatcher: A directory notification for '../../../../../Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Content/' was aborted.
+[2018.05.09-18.28.49:758][805]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.09-18.28.49:758][805]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.09-18.28.49:758][805]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.09-18.28.49:759][805]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.09-18.28.49:759][805]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.09-18.28.49:759][805]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.09-18.28.49:830][805]LogExit: Object subsystem successfully closed.
+[2018.05.09-18.28.49:874][805]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.05.09-18.28.49:878][805]LogD3D11RHI: Shutdown
+[2018.05.09-18.28.49:878][805]LogD3D11RHI: CleanupD3DDevice
+[2018.05.09-18.28.49:881][805]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.09-18.28.49:915][805]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.05.09-18.28.49:915][805]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2018.05.09-18.28.49:915][805]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2018.05.09-18.28.49:915][805]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.05.09-18.28.49:915][805]LogDirectoryWatcher: A directory notification for 'C:/Unreal Engine/UE_4.19/FeaturePacks/' was aborted.
+[2018.05.09-18.28.49:915][805]LogDirectoryWatcher: A directory notification for 'C:/Unreal Engine/UE_4.19/Enterprise/FeaturePacks/' was aborted.
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.05.09-18.28.49:916][805]LogDirectoryWatcher: A directory notification for 'C:/Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Content/Collections/' was aborted.
+[2018.05.09-18.28.49:916][805]LogDirectoryWatcher: A directory notification for 'C:/Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Content/Developers/Paco/Collections/' was aborted.
+[2018.05.09-18.28.49:916][805]LogDirectoryWatcher: A directory notification for 'C:/Users/Paco/Desktop/jamPrueba/jamPrueba/BallsMovement/Saved/Collections/' was aborted.
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.05.09-18.28.49:916][805]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.05.09-18.28.49:917][805]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
