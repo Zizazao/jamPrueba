@@ -1,6 +1,0 @@
-ieh!
-<<<<<<< HEAD
-Juan Vicente
-=======
-Hola
->>>>>>> 1220435f06d3db79366c7bca3a403ea044d5fc43
